@@ -8,7 +8,7 @@ In this case, I will use various predictive models to see how accurately they ar
 # Goals
 1. Gain preliminary insight of data before building model
 2. 80/20 split of data for training and testing
-3. Determine which prediction model to use and which one has a higher accuracy
+3. Build XGBoost model for prediction
 4. Understand challenge behind electricity prediction/forecasting problem
 
 # Content
